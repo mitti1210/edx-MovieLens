@@ -11,8 +11,8 @@ Report_MovieLends.pdf
 
 report_RMSE.R
 
-Report_MovieLends.Rmd is my report in PDF format.
+Report_MovieLends.Rmd is my report in Rmd format.
 
-Report_MovieLends.pdf is my report in Rmd format.
+Report_MovieLends.pdf is my report in PDF format.
 
 report_RMSE.R is a script in R format that generates my predicted movie ratings and RMSE score.
