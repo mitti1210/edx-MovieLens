@@ -5,10 +5,10 @@ date: "2019/4/13"
 output:
    pdf_document:
       latex_engine: xelatex 
-      number_sections: true # 見出しごとに番号を振る
+      number_sections: true 
       toc: true
-      toc_depth: 3     # 見出しの表示とその深さを指定
-      highlight: tango # Rスクリプトのハイライト形式
+      toc_depth: 3    
+      highlight: tango
 ---
 
 ```{r setup, include=FALSE}
