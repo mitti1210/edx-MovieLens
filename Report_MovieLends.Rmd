@@ -1,6 +1,6 @@
 ---
 title: "Report_MovieLends"
-author: "Michihito Mitsuyasu"
+author: ""
 date: "2019/4/13"
 output:
    pdf_document:
